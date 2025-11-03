@@ -8,6 +8,8 @@
 
 **wd#** -> webdev projects i make while learning
 
+_numbered chronologically by start date_
+
 --------------------
 ### 💻 "experience"
 
