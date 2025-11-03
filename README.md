@@ -13,4 +13,4 @@
 
 **languages ive learned/am learning:** html/css/js • java • python • c++ • R 
 
-**things ive worked with:** docker • git • plumber api (R) • wsl/ubuntu for RNAseq stuff (deseq2, alignment, salmon, etc.)
+**other things ive worked with:** docker • git • plumber api (R) • wsl/ubuntu for RNAseq stuff (deseq2, alignment, salmon, etc.)
