@@ -8,6 +8,8 @@
 
 **wd#** -> webdev projects i make while learning
 
+**p#** -> personal projects
+
 _numbered chronologically by start date_
 
 --------------------
