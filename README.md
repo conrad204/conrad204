@@ -1,12 +1,12 @@
-**UAB BME class of '29**: ngl idk if i'm doing premed or cs
+**UAB BME class of '29**:
 
 ---------------
 
 ### 🧾 project naming structure
 
-**r#** -> research projects (probably vibecoded here and there)
+**r#** -> for kidney research
 
-**wd#** -> webdev projects i make while learning
+**wd#** -> webdev
 
 **p#** -> personal projects
 
