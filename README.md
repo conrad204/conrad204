@@ -1,18 +1,8 @@
-**UAB BME class of '29**:
-
----------------
-
-### 🧾 project naming structure
-
-**r#** -> for kidney research
-
-**wd#** -> webdev
-
-**p#** -> personal projects
-
-_numbered chronologically by start date_
+**CS @ Emory '29**
+UAB BME 2025-2026
 
 --------------------
+
 ### 💻 experience
 
 **learning:** html/css/js • java • python • c++ • R 
