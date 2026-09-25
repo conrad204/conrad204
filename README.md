@@ -2,6 +2,8 @@
 
 UAB BME 2025-2026
 
+https://conradfeng.ai
+
 --------------------
 
 ### 💻 experience
